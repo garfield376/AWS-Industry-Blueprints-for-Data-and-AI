@@ -1,1 +1,1 @@
-# Aws Industry Blueprints for Data & AI
+# AWS Industry Blueprints for Data & AI
