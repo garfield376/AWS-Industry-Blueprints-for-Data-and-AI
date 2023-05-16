@@ -6,12 +6,12 @@ theme:
     - tabs
 nav:
   - Overview: 'index.md'
-  - Introduction: 'introduction.md'
-  - Components definition: 'components.md'
-  - Data Ingestion Pipelines: 
+  - Components: 'components.md'
+  - Core Concepts: 'core_concepts.md'
+  - Data Ingestion Pipeline Modules: 
     - FHIR Connector: 'comingsoon.md'
     - FiveTran: 'comingsoon.md'
-  - Use Case Modules:
+  - Add-on Use Case Modules:
     - Database:
       - RDS Plug & Play: 'https://github.com/aws-samples/amazon-isv-plug-n-play'
     - Data Lake:
@@ -30,6 +30,10 @@ nav:
     - Customer 360: 'comingsoon.md'
 
 markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html 
   - def_list
   - pymdownx.highlight
   - pymdownx.superfences
@@ -41,3 +45,17 @@ markdown_extensions:
       permalink: true
 plugins:
   - search
+  - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       skip_classes:
+         - custom-skip-class-name
+       auto_caption: false
+       caption_position: bottom
+      
