@@ -10,9 +10,11 @@ nav:
   - Components: 'components.md'
   - Core Concepts: 'core_concepts.md'
   - Data Ingestion Pipeline Modules: 
+    - Overview: 'overview_ingestion.md'
     - FHIR Connector: 'comingsoon.md'
     - FiveTran: 'comingsoon.md'
   - Add-on Use Case Modules:
+    - Overview: 'overview_addon.md'
     - Database:
       - RDS Plug & Play: 'https://github.com/aws-samples/amazon-isv-plug-n-play'
     - Data Lake:
@@ -27,7 +29,8 @@ nav:
       - Domo: 'comingsoon.md'
     - Fraud Detection: 'comingsoon.md'
     - ID resolution: 'comingsoon.md'
-  - Blueprints:
+  - Industry Blueprints:
+    - Overview: 'overview_blueprints.md'
     - Customer 360: 'comingsoon.md'
 
 markdown_extensions:
