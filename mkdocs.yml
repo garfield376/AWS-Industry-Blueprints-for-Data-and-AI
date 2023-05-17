@@ -7,7 +7,6 @@ theme:
     - tabs
 nav:
   - Overview: 'index.md'
-  - Introduction: 'introduction.md'
   - Components: 'components.md'
   - Core Concepts: 'core_concepts.md'
   - Data Ingestion Pipeline Modules: 
