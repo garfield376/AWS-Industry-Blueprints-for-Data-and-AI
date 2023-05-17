@@ -15,6 +15,7 @@ The following solution architecture diagram is an example of an end-to-end `Cust
 The dashed boxes in this diagram represent `add-on use case` components that address each use case in the solution, while the remaining elements form the `data ingestion pipeline`. 
 
 This sample end-to-end `Customer 360` solution built with Blueprints showcases several key features, including: 
+
 - Low Code / No Code Data Ingestion: Simplifying data ingestion to make it accessible to users with varying levels of technical expertise. 
 - SQL-oriented Data Pipelines: Facilitating efficient data 
 processing and transformation. 
