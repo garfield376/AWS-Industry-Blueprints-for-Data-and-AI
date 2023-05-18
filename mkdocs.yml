@@ -15,18 +15,14 @@ nav:
     - FiveTran: 'comingsoon.md'
   - Add-on Use Case Components:
     - Overview: 'overview_addon.md'
-    - Database:
-      - RDS Plug & Play: 'https://github.com/aws-samples/amazon-isv-plug-n-play'
-    - Data Lake:
-      - Cabon Data Lake: 'https://aws.amazon.com/solutions/guidance/carbon-data-lake-on-aws/'
-      - Data Connector for AWS Data Clean Rooms: 'https://aws.amazon.com/solutions/guidance/connecting-data-clean-rooms/'
-    - Data Catalog / Governance:
-      - Alation: 'comingsoon.md'
-    - Business Insights Accelerators:
-      - AWS QuickSignt Gallery: 'https://aws.amazon.com/quicksight/gallery/'
-      - CI/CD of QuickSight Assets in SaaS Silo Deployment: 'https://github.com/aws-samples/saas-silo-quicksight-assets-cicd-solution'
-      - BI in a Box: 'comingsoon.md'
-      - Domo: 'comingsoon.md'
+    - RDS Plug & Play: 'https://github.com/aws-samples/amazon-isv-plug-n-play'
+    - Cabon Data Lake: 'https://aws.amazon.com/solutions/guidance/carbon-data-lake-on-aws/'
+    - Data Connector for AWS Data Clean Rooms: 'https://aws.amazon.com/solutions/guidance/connecting-data-clean-rooms/'
+    - Alation: 'comingsoon.md'
+    - AWS QuickSignt Gallery: 'https://aws.amazon.com/quicksight/gallery/'
+    - CI/CD of QuickSight Assets in SaaS Silo Deployment: 'https://github.com/aws-samples/saas-silo-quicksight-assets-cicd-solution'
+    - BI in a Box: 'comingsoon.md'
+    - Domo: 'comingsoon.md'
     - Fraud Detection: 'comingsoon.md'
     - ID resolution: 'comingsoon.md'
   - Example Blueprints:
