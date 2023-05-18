@@ -8,6 +8,9 @@ This document provides a high level overview of the Core Concepts that are embed
 | [Add-on Use Case](#add-on-use-case) |  Concentrate on processing and utilizing data in industry-specific ways. |
 | [Blueprint](#blueprint) | A `blueprint` combines `data ingestion pipeline` and `add-on use case` modules into an end-to-end industry solution with business logic.| 
 
+Our dedicated team ensures that the artifacts are regularly updated, reflecting the latest advancements and best practices in the data and AI landscape.
+
+
 The following solution architecture diagram is an example of an end-to-end `Customer 360` solution built using `Industry Blueprints for Data & AI`.
 
 ![c360](./assets/images/c360.png)

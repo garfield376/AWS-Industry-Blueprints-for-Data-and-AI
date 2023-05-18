@@ -7,13 +7,13 @@ theme:
     - tabs
 nav:
   - Overview: 'index.md'
-  - Components: 'components.md'
+  - Componentized Mechanism: 'components.md'
   - Core Concepts: 'core_concepts.md'
-  - Data Ingestion Pipeline Modules: 
+  - Data Ingestion Pipeline Components: 
     - Overview: 'overview_ingestion.md'
     - FHIR Connector: 'comingsoon.md'
     - FiveTran: 'comingsoon.md'
-  - Add-on Use Case Modules:
+  - Add-on Use Case Components:
     - Overview: 'overview_addon.md'
     - Database:
       - RDS Plug & Play: 'https://github.com/aws-samples/amazon-isv-plug-n-play'
@@ -29,9 +29,19 @@ nav:
       - Domo: 'comingsoon.md'
     - Fraud Detection: 'comingsoon.md'
     - ID resolution: 'comingsoon.md'
-  - Industry Blueprints:
+  - Example Blueprints:
     - Overview: 'overview_blueprints.md'
     - Customer 360: 'comingsoon.md'
+    - Supply Chain: 'comingsoon.md'
+    - Healthcare & Life Science: 'comingsoon.md'
+    - Manufacture & Automotive: 'comingsoon.md'
+    - Retail & Advertising: 'comingsoon.md'
+    - Media & Entertainment: 'comingsoon.md'
+    - Financial Services Industry: 'comingsoon.md'
+    - Gaming: 'comingsoon.md'
+    - Sustainability: 'comingsoon.md'
+  - Trainings: 'trainings.md'
+  - Component request: 'request.md'
 
 markdown_extensions:
   - abbr
